@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+dist/
+build/
+
+# Entornos virtuales
+venv/
+.env/
+.env.*
+.venv/
+
+# Streamlit
+.streamlit/
+
+# Logs
+*.log
+
+# Datos sensibles (historias clínicas)
+data/raw/*
+data/processed/*
+data/exports/*
+
+# Archivos temporales OCR
+*.tmp
+*.bak
+
+# Jupyter (si llegas a usarlo)
+.ipynb_checkpoints/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
