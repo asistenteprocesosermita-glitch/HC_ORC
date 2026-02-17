@@ -1,0 +1,18 @@
+codigo_cups,descripcion,grupo
+901201,Biopsia,Procedimientos
+389501,Catéter venoso central,Procedimientos
+960401,Intubación endotraqueal,Procedimientos
+939601,Ventilación mecánica,Procedimientos
+340201,Toracocentesis,Procedimientos
+990101,Transfusión sanguínea,Procedimientos
+570101,Sonda vesical,Procedimientos
+960201,Sonda orogástrica,Procedimientos
+902210,Hemograma completo,Laboratorios
+902305,Hemocultivo,Laboratorios
+902409,Gases arteriales,Laboratorios
+902030,Creatinina sérica,Laboratorios
+902031,Nitrógeno ureico (BUN),Laboratorios
+879201,Tomografía axial computarizada,Imágenes
+870101,Radiografía simple,Imágenes
+881201,Ecografía general,Imágenes
+889101,Ecocardiograma,Imágenes
