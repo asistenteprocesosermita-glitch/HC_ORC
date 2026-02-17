@@ -1,16 +1,10 @@
 streamlit==1.32.2
-
 pytesseract==0.3.10
 pdf2image==1.17.0
-Pillow==11.0.0
-
+Pillow==10.4.0
 pandas==2.2.1
 numpy==1.26.4
-
 regex==2023.12.25
 python-dateutil==2.8.2
-
 fuzzywuzzy==0.18.0
 python-Levenshtein==0.23.0
-
-spacy==3.7.2
